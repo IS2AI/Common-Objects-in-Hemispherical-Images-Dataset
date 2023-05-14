@@ -12,13 +12,13 @@ To train object detection models for the COHI dataset, the FisheyeCOCO dataset w
 
 <img src="https://github.com/IS2AI/Common-Objects-in-Hemispherical-Images-Dataset/blob/main/figures/FisheyeCOCO_samples.PNG" width="750">
 
-##Requirements
-###For data preprocessing
--numpy
--PIL
--pandas
+## Requirements
+### For data preprocessing
+* numpy
+* PIL
+* pandas
 
-###For object detection
+### For object detection
 We used YOLOv7 to train and evaluate object detection models. All needed information can be found in their official GitHub page 
 [YOLOv7](https://github.com/WongKinYiu/yolov7). 
 
