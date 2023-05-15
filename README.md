@@ -29,3 +29,12 @@ We trained the YOLOv7 model with 36.9 M parameters on three datasets and evaluat
 - **YOLOv7_transformed**: trained on the FisheyeCOCO dataset
 - **YOLOv7_combuned**: trained on the combination of the MS COCO and FisheyeCOCO datasets
 
+mAP<sub>50</sub> results are summarized in the table below.
+
+| Model | mAP<sub>50</sub> |
+| :-- | :-: |
+| YOLOv7_original | 58.23% |
+| YOLOv7_transformed | 58.28% |
+| YOLOv7_combined | 60.77% |
+
+
