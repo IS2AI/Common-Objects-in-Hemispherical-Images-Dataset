@@ -22,3 +22,10 @@ To train object detection models for the COHI dataset, the FisheyeCOCO dataset w
 We used YOLOv7 to train and evaluate object detection models. All needed information can be found on their official GitHub page 
 [YOLOv7](https://github.com/WongKinYiu/yolov7). 
 
+## Pre-trained models
+We trained the YOLOv7 model with 36.9 M parameters on three datasets and evaluated the performance of models with our benchmark testing dataset - COHI.
+
+- **YOLOv7_original**: trained on the MS COCO dataset
+- **YOLOv7_transformed**: trained on the FisheyeCOCO dataset
+- **YOLOv7_combuned**: trained on the combination of the MS COCO and FisheyeCOCO datasets
+
