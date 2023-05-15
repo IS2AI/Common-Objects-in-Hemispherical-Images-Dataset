@@ -37,4 +37,4 @@ mAP<sub>50</sub> results are summarized in the table below.
 | YOLOv7_transformed | 58.28% |
 | YOLOv7_combined | 60.77% |
 
-
+Pre-trained model weights can be downloaded using a Google Drive link: [weights](https://drive.google.com/drive/folders/1bbVMCXfXj-eeYIY0EtAhdcf2BP6-Iz6N?usp=sharing).
