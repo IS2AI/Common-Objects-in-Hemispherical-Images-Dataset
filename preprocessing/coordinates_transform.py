@@ -8,7 +8,7 @@ import time
 input_path = "val2017"
 output_path = "coordinates_val2017_transformed/"
 
-f = open('instances_val2017.json')
+f = open('instances_val2017.json')    #the same script can be used for 'instances_train2017.json'
 data = json.load(f)
 f.close()
 
