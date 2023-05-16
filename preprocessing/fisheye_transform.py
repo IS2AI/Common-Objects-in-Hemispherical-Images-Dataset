@@ -81,7 +81,7 @@ a = 3264;
 b = 2448;
 scaling_factor = a/b;    #aspect ratio of images in COHI
 
-directory = 'val2017'
+directory = 'val2017'    #the same script can be used for 'train2017'
 start = time.time()
 count = 1
 
