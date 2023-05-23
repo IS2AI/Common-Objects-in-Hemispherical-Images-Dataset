@@ -45,3 +45,15 @@ mAP<sub>50</sub> results are summarized in the table below.
 | YOLOv7_combined | 60.77% |
 
 Pre-trained model weights can be downloaded using a Google Drive link: [weights](https://drive.google.com/drive/folders/1bbVMCXfXj-eeYIY0EtAhdcf2BP6-Iz6N?usp=sharing).
+
+## Citation
+```
+@article{Balgabekova2023,
+author = "Zarema Balgabekova and Muslim Alaran and Hüseyin Atakan Varol",
+title = "{A Data-Centric Approach for Object Recognition in Hemispherical Camera Images}",
+year = "2023",
+month = "5",
+url = "https://www.techrxiv.org/articles/preprint/A_Data-Centric_Approach_for_Object_Recognition_in_Hemispherical_Camera_Images/23016185",
+doi = "10.36227/techrxiv.23016185.v1"
+}
+```
